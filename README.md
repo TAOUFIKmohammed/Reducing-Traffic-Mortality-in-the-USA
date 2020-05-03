@@ -10,12 +10,12 @@ The data given to us was originally collected by the National Highway Traffic Sa
 
 
 ### Prerequisites
-Data Science
-Pandas Foundations
-Manipukating DataFrames with pandas
-Unsupervised Learning
-Supervisedd  Learning
-Data Visualisation with Seaborn
+* Data Science
+* Pandas Foundations
+* Manipukating DataFrames with pandas
+* Unsupervised Learning
+* Supervisedd  Learning
+* Data Visualisation with Seaborn
 
 
 
